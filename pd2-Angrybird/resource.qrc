@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/Background">
+        <file>Sakura_background.png</file>
+        <file>End.png</file>
+    </qresource>
+    <qresource prefix="/Life">
+        <file>Life.png</file>
+    </qresource>
+    <qresource prefix="/land">
+        <file>land.png</file>
+    </qresource>
+    <qresource prefix="/Bird">
+        <file>BigBird.png</file>
+        <file>BigStay.png</file>
+        <file>BlueBird.png</file>
+        <file>RedBird.png</file>
+        <file>RedStay.png</file>
+        <file>YellowBird.png</file>
+        <file>YellowStay.png</file>
+        <file>WhiteBird.png</file>
+        <file>WhiteStay.png</file>
+        <file>BlueStay.png</file>
+    </qresource>
+    <qresource prefix="/Sling">
+        <file>Sling.png</file>
+    </qresource>
+    <qresource prefix="/Block">
+        <file>WoodenBlock.png</file>
+        <file>IronBlock.png</file>
+        <file>IronBlockH.png</file>
+        <file>WoodenBlockH.png</file>
+    </qresource>
+    <qresource prefix="/Pig">
+        <file>SmallPig.png</file>
+        <file>KingPig.png</file>
+    </qresource>
+    <qresource prefix="/Sound">
+        <file>qiqi.wav</file>
+        <file>BGMusic.mp3</file>
+        <file>Mouseclick.wav</file>
+        <file>ARH.wav</file>
+        <file>FLY.wav</file>
+    </qresource>
+    <qresource prefix="/Button">
+        <file>exit.png</file>
+        <file>restart.png</file>
+    </qresource>
+</RCC>
